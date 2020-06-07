@@ -1,3 +1,4 @@
+/*simple validation*/
 function handleSubmitArticle(event) {
   event.preventDefault();
   const url = document.getElementById("test-url").value;
