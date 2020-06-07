@@ -54,4 +54,4 @@ npm run start
 
 ## Authors
 
-* [Surya Kant Bansal](https://github.com/skb1129)
+* [Abhishek Soni ]
